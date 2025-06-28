@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajyouthmediia&show_icons=true&locale=en" alt="ajyouthmediia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajyouthmediia&" alt="ajyouthmediia" /></p>
+<p><img align="center" src="C:\Users\Amarjeet\OneDrive\Pictures\media\ajyouthmediia-sign.png" alt="ajyouthmediia" /></p>
